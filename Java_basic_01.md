@@ -12,8 +12,8 @@ OOP is a programming paradigm based on the concept of "objects", which can conta
 long l = 1000000000L
 float f = 1.22F
 ```
-    ![01_Datatypes]()
-    ![02_Datatypes]()
+    ![01_Datatypes](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/01_screenshot/01_datatypes.png)
+    ![02_Datatypes](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/01_screenshot/02_datatypes.png)
 - Non-primitive data types such as: String, Arrays and Classes 
 
 ## Variable
@@ -44,5 +44,43 @@ int j = ++ i (not i is 11 and j is 11
 ```
 
 - **TernaryOperator**
-    ![03]()
+    ![03](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/01_screenshot/03_terneryoperator.png)
 
+- Swtich
+Besdies if/elif/if, Java has swtich
+    ![04]()
+- For template
+```
+int sum = 0
+for(int i= 1; i<=5; i++) {
+    sum += i;
+    System.out.println("sum is" + sum);
+}
+```
+- while template
+```
+int i = 0
+while(i<10>{
+    i++;
+})
+```
+- **do...while**
+```
+int i = 1;
+do{
+    System.out.println("Hello");
+    i++;
+}while(i<10);
+```
+
+- Random
+```
+import java.util.Random;
+Random r = new Random()
+int number = r.nextInt(10); random number in range [0,10)
+```
+
+
+## Memory
+- Stack (zhan) or Heap (dui)?
+    ![05]()
