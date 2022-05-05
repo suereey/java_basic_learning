@@ -48,7 +48,7 @@ int j = ++ i (not i is 11 and j is 11
 
 - Swtich
 Besdies if/elif/if, Java has swtich
-    ![04]()
+    ![04](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/01_screenshot/04_switch.png)
 - For template
 ```
 int sum = 0
@@ -83,4 +83,4 @@ int number = r.nextInt(10); random number in range [0,10)
 
 ## Memory
 - Stack (zhan) or Heap (dui)?
-    ![05]()
+    ![05](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/01_screenshot/05.png)

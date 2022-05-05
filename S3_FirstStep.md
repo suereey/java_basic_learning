@@ -8,7 +8,6 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello Wolrd");
-
         int myFirstNum = 5; //set a variable is a declaration statement
     }
 }
@@ -20,13 +19,12 @@ byte myNewByteValue = (byte) (myMinByteValue / 2);
 ```
 
 - int vs. float vs. double
-    ![01]()
+    ![01](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/01.png)
 
 - string
 ```
 String myString = "This is a string";
 int i = 10;
-
 myString = myString + " add more"; //"This is a string add more"
 ```
 
