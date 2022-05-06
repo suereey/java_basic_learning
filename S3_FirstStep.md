@@ -42,4 +42,5 @@ if (time < 18) {
 
 - More about operators
 [operators summary](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html)
+
 [Java Operator Precedence Table](http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html)
