@@ -44,6 +44,9 @@ public class Main {
 // I just got executed!
 ```
 
-## Method overloading vs Overriding
+
+- **Method overloading vs Overriding**
+    -Method overloading improves code readability and re-usability. 
     ![02](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/02.png)
     ![03](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/03.png)
+
