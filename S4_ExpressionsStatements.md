@@ -26,9 +26,7 @@ if (condition1) {
 }
 ```
 
-- Note good tool for compare different:
-
-[**DiffMerge**](https://sourcegear.com/diffmerge/downloads.php)
+- Note good tool for compare different: [**DiffMerge**](https://sourcegear.com/diffmerge/downloads.php)
 
 ## Method and Call method
 ```
@@ -47,5 +45,5 @@ public class Main {
 ```
 
 ## Method overloading vs Overriding
-    ![02]()
-    ![03]()
+    ![02](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/02.png)
+    ![03](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/03.png)
