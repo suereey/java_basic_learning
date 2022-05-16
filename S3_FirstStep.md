@@ -1,4 +1,4 @@
-# Introduction
+# Section 3. Introduction
 
 ## Initalize Hello world project
 - Defining the main method
@@ -44,3 +44,4 @@ if (time < 18) {
 [operators summary](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html)
 
 [Java Operator Precedence Table](http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html)
+

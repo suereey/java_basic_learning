@@ -127,7 +127,7 @@ class Main {
     String userName = scanner.nextLine();  // Read user input
     System.out.println("Username is: " + userName);  // Output user input
 
-    scanner.close()
+    scanner.close();
   }
 }
 ```

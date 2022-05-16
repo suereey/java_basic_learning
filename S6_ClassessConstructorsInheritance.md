@@ -15,3 +15,6 @@
     ![07](https://raw.githubusercontent.com/suereey/java_basic_learning/main/screenshot/S3_screenshot/07.png)
 
 ## Constructors
+- see sample code in folder s6
+
+## inheritance
